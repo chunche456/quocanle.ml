@@ -37,5 +37,26 @@
         <div class="list">
             <p><a href="timnguoinha">Tìm Người Nhà</a></p><br>
         </div>
+		<div class="list">
+            <p><a href="lilac">[MV] IU(아이유)_LILAC(라일락)</a></p><br>
+        </div>
+		<div class="list">
+            <p><a href="irony">Hokkaido 《北海道之小樽日记》</a></p><br>
+        </div>
+		<div class="list">
+            <p><a href="justdisappear">どうせ無くなるだけ _ たかやん (Official Music Video)</a></p><br>
+        </div>
+		<div class="list">
+            <p><a href="rockwithyou">Michael Jackson - Rock With You (Official Video)</a></p><br>
+        </div>
+		<div class="list">
+            <p><a href="7711">Minh Đinh - 7711 (bảy bảy một một) (w/ Rem @CDSL) | Acoustic Ver.</a></p><br>
+        </div>
+		<div class="list">
+            <p><a href="stripnomore">Lukas Graham - Strip No More [OFFICIAL AUDIO]</a></p><br>
+        </div>
+		<div class="list">
+            <p><a href="whathappenedtoperfect">Lukas Graham - What Happened To Perfect [OFFICIAL AUDIO]</a></p><br>
+        </div>
     </div>
 </body>
