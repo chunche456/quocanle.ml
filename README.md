@@ -1,2 +1,1 @@
-# ![Quocanle.ml](quocanle.ml) (&lt;a&gt;)
-Source code of quocanle.ml
+# Source code of quocanle.ml
