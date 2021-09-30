@@ -1,7 +1,7 @@
 <?php
 $name = "KANA-BOON 『ないものねだり』";
-$poster = '"/poster\ないものねだり.jpg"';
-$url_video = '"https://6zvtrcldmkkwj4ko5cwamq-on.drv.tw/share/video/ないものねだり.mp4"';
+$poster = '"/poster\naimononedari.jpg"';
+$url_video = '"https://6zvtrcldmkkwj4ko5cwamq-on.drv.tw/share/video/naimononedari.mp4"';
 // $subtitles = '<track label="English" kind="subtitles" srclang="en" src="captions/vtt/sintel-en.vtt" default>';
 $description_p = 'Đây là music video KANA-BOON 『ないものねだり』';
 include($_SERVER['DOCUMENT_ROOT'].'/video/head_video.php');

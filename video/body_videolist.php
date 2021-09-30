@@ -14,7 +14,7 @@
             <p><a href="nointernet">NO INTERNET - 7UPPERCUTS × SEACHAINS</a></p><br>
         </div>
         <div class="list">
-            <p><a href="ないものねだり">KANA-BOON 『ないものねだり』</a></p><br>
+            <p><a href="naimononedari">KANA-BOON 『ないものねだり』</a></p><br>
         </div>
         <div class="list">
             <p><a href="emoii">EM OII - The Flob</a></p><br>
