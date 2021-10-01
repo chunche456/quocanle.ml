@@ -1,7 +1,7 @@
 <?php
 $name = "jaigon orchestra [x] tú tú .-. nhu mì (official vũng tàu mv)";
-$poster = '"/poster\nhumi.jpg"';
-$url_video = '"https://6zvtrcldmkkwj4ko5cwamq-on.drv.tw/share/video/nhumi.mp4"';
+$poster = '"https://6zvtrcldmkkwj4ko5cwamq-on.drv.tw/web/quocanle.ml/poster/nhumi.jpg"';
+$url_video = '"https://6zvtrcldmkkwj4ko5cwamq-on.drv.tw/web/quocanle.ml/video/nhumi.mp4"';
 $definition = '<source label="4K" src="https://6zvtrcldmkkwj4ko5cwamq-on.drv.tw/share/video/nhumi.mkv" type="video/mp4">';
 // $subtitles = '<track label="English" kind="subtitles" srclang="en" src="captions/vtt/sintel-en.vtt" default>';
 $description_p = 'Đây là music video jaigon orchestra [x] tú tú .-. nhu mì (official vũng tàu mv)';
