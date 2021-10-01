@@ -2,7 +2,7 @@
     <h1><a href="/">Home</a></h1>
     <div id="menu">
         <div class="list">
-            <p><a href="thucgiac">Thức Giấc Remix</a></p><br>
+            <p><a href="thucgiacremix">DA LAB - THỨC GIẤC (KIPER T x KRIZH REMIX)</a></p><br>
         </div>
         <div class="list">
             <p><a href="giacmotrua">Giấc Mơ Trưa - Dính</a></p><br>
