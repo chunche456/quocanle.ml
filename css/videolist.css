@@ -1,10 +1,10 @@
 * {
-    background-color: rgb(32, 32, 32);
+    /* background-color: rgb(32, 32, 32); */
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color: white;
+    color: black;
 }
 
 div#menu div.list p a:hover {
@@ -12,7 +12,7 @@ div#menu div.list p a:hover {
 }
 
 div#menu div.list p a {
-    color: white;
+    color: black;
     display: inline-block;
     text-align: center;
     padding: 5px;
@@ -21,7 +21,7 @@ div#menu div.list p a {
 }
 
 h1 a {
-    color: white;
+    color: black;
     display: inline-block;
     text-align: center;
     padding: 14px;

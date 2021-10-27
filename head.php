@@ -11,7 +11,7 @@
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7714233913291579"
      crossorigin="anonymous"></script>
 	</script>
-	<script src="/js\adblockDetector.js"></script>
+	<!-- <script src="/js\adblockDetector.js"></script>
 	<script>
 	// Configure the adblock detector
 	(function(){
@@ -42,5 +42,6 @@
 			);
 		}
 	}());
-	</script>
+	</script> -->
+	<script src="./js/darkmode-js.min.js"></script>
 </head>
